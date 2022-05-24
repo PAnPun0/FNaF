@@ -1,0 +1,138 @@
+@font-face {
+    	font-family:Montserrat-Light; 
+    	src: url(Montserrat-Light.ttf)
+}
+body{font-family:Montserrat-Light; margin: 0}
+.up{
+	height: 90px;
+	background: rgba(0, 0, 0, 1);
+
+}
+.flex{
+	display: flex;
+}
+.bg{
+	background: rgb(13,18,97);
+	background: linear-gradient(180deg, rgba(13,18,97,1) 0%, rgba(0,0,0,1) 100%);
+	height:800px;
+}
+.bg-2{
+	background-color: black;
+	height: 2000px;
+}
+.logo{
+	background-image: url(fnaf.png);
+	background-size: 100% 100%;
+	width:600px;
+	height: 200px;
+	margin-bottom: 666px;
+
+}
+.figure{
+	 width: 100%;
+}
+.head{
+	background-image: url(fnaf2.jfif);
+}
+.font{
+	color: white;
+	margin: 0;
+	font-size: 30px;
+}
+.top-menu{
+	font-weight: bold;
+	margin-top: 30px;
+
+	opacity: 1.25;
+}
+.txt{
+	font-weight: bold;
+	font-size: 12px;
+	text-decoration: none;
+	color: white;
+	margin-top: 30px;
+	opacity: 1.25;
+	transition: 0.2s;
+}
+.ml{
+	margin-left: 55.85%
+
+}
+.ml2{
+	margin-left: 1.85%
+
+}
+.txt{
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: none;
+	color: white;
+	margin-top: 30px;
+	opacity: 1.25;
+	transition: 0.2s;
+	text-align: center;
+		}
+.mx-auto{
+	margin-left: auto ;
+	margin-right: auto;
+}
+.east{
+	background-image: url(dinningArea-b.webp);
+}
+.border {
+	border: 5px solid black;
+}
+.scrs1-1 {
+	height: 300px;
+	width: 600px;
+	background-image: url(dinningArea-b.webp);
+	background-size: 100% 100%;
+	border-radius: 10px;
+	transition: 0.2s;
+		}
+.scrs1-1:hover{
+	opacity: 0.8;
+	transform: scale(1.1);
+}
+.about-txt{
+	font-weight: bold;
+	font-size: 45px;
+	color: white;
+	text-align: center;
+	width: 40%;
+	margin-left: 7.5%;
+	margin-top: 30px;
+	transition: 0.2s;
+}
+.about{
+	font-size: 60px;
+	color: white;
+	text-align: center;
+}
+.g-scrs {
+	margin-left: 70%;
+	width: 500px;
+	height: 420px;
+}
+.h-txt {
+	font-weight: bold;
+	color: white;
+	margin-top: 12px;
+	opacity: 1.25;
+	transition: 0.2s;
+		}
+.h-txt:hover {
+	color: #b8b8b8
+		}
+.scrs1-2 {
+	height: 300px;
+	width: 600px;
+	background-image: url(Pirate_Cove-1.webp);
+	background-size: 100% 100%;
+	border-radius: 10px;
+	transition: 0.2s;
+		}
+.scrs1-2:hover{
+	opacity: 0.8;
+	transform: scale(1.1);
+ad
